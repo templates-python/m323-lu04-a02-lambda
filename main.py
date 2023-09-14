@@ -1,12 +1,13 @@
-def calculate():
-    """
-    calculates the total
-    :return: None
-    """
-    price = 15.75
-    quantity = 3  # TODO change quantity to 5
-    print(f'Total: {price * quantity}')
+from math import pi
 
+circle_area = None # Kreisfläche
+
+square_area = None # Quadratfläche
+
+rectangle_area = None # Rechteckfläche
 
 if __name__ == '__main__':
-    calculate()
+
+    print(circle_area(5))
+    print(square_area(4))
+    print(rectangle_area(3, 5))
