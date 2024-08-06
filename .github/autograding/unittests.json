@@ -1,0 +1,20 @@
+[
+  {
+    "name": "test_circle_area",
+    "function": "test_circle_area",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_square_area",
+    "function": "test_square_area",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rectangle_area",
+    "function": "test_rectangle_area",
+    "timeout": 10,
+    "points": 1
+  }
+]
