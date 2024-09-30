@@ -1,10 +1,10 @@
 from math import pi
 
-circle_area = None # Kreisfläche
+circle_area = None  # Kreisfläche
 
-square_area = None # Quadratfläche
+square_area = None  # Quadratfläche
 
-rectangle_area = None # Rechteckfläche
+rectangle_area = None  # Rechteckfläche
 
 if __name__ == '__main__':
 
