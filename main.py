@@ -1,3 +1,8 @@
+"""Lambda - Fläche von Formen.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/lambda2
+"""
+
 from math import pi
 
 # Lambda-Funktionen für die Flächenberechnung
